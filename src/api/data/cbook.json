@@ -1,0 +1,25 @@
+{
+    "friends": [
+        {
+            "friend_name": "Creode",
+            "friend_image": "https://media-exp1.licdn.com/dms/image/C4D0BAQHZ9ftJyh5Upg/company-logo_200_200/0/1573492375335?e=2159024400&v=beta&t=yRXx9NR0K3H1xcpEkhT9UIWxxo-ywpm-Jw8l9Dfclig",
+            "friend_bio": "The digitally integrated agency, fusing proven marketing with tech expertise. Also home of the Marketing Unfiltered pod. Subscribe👂🎧 👉🏻 at http://apple.co/2tJ1A25",
+            "number_of_friends": 2352,
+            "email": "contact@creode.co.uk"
+        },
+        {
+            "friend_name": "Google",
+            "friend_image": "https://pbs.twimg.com/profile_images/1356921365698404356/3OG1HbbM_x96.jpg",
+            "friend_bio": "The more we learn, the closer we get. #itsOKtoAsk For support → http://support.google.com",
+            "number_of_friends": 190500,
+            "email": "help@google.co.uk"
+        },
+        {
+            "friend_name": "Apple",
+            "friend_image": "https://pbs.twimg.com/profile_images/1283958620359516160/p7zz5dxZ_x96.jpg",
+            "friend_bio": "Think Different.",
+            "number_of_friends": 6800000,
+            "email": "tim@apple.co.uk"
+        }
+    ]
+}
