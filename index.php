@@ -9,4 +9,8 @@ define("CRITTERAPIKEY", "j4nHNuaPo2nq6AdW");
 
 $app = new App(CBOOKAPICLIENT, CBOOKAPISECRET, CRITTERAPIKEY);
 
+include 'header.php';
+
 $app->render();
+
+include 'footer.php';
