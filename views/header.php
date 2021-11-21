@@ -87,3 +87,7 @@
   </head>
   <body>
 <main>
+  <div class="w-50 mx-auto">
+    <h1 class="mb-3 text-center border-bottom pb-3 text-primary">Associates</h1>
+
+
